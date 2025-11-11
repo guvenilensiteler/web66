@@ -225,7 +225,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://bit.ly/45Q7FrL",
+        "url": "https://bit.ly/4hzQMXJ",
         "desc": [
           "HOŞ GELDİN BONUSUNU AL!"
         ],
@@ -345,7 +345,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://palazzobet202.com/?btag=2282_2250",
+        "url": "https://cutt.ly/pzercuapp",
         "desc": [
           "YENİ ÜYELERE 1.000 TL DENEME BONUSU"
         ],
@@ -378,6 +378,54 @@
         "color": "#ff6600",
         "miktar": "₺750",
         "promo_code": null,
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/er5mCqIX",
+        "desc": [
+          "1.000 TL DENEME BONUSU"
+        ],
+        "site": "supertotobet",
+        "sort": null,
+        "color": "#ff003c",
+        "miktar": "₺1.000",
+        "promo_code": null,
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/7r5QxbTc",
+        "desc": [
+          "666 TL DENEME BONUSU"
+        ],
+        "site": "solobet",
+        "sort": null,
+        "color": "#ff7400",
+        "miktar": "₺666",
+        "promo_code": null,
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ercuvnm",
+        "desc": [
+          "ÜYE OL, BONUSU AL"
+        ],
+        "site": "venombet",
+        "sort": null,
+        "color": "#ff002b",
+        "miktar": "₺300",
+        "promo_code_yok": "%50 SLOT BONUSU",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/Ercuapsh",
+        "desc": [
+          "300 TL DENEME BONUSU"
+        ],
+        "site": "pashagaming",
+        "sort": null,
+        "color": "#ebb800",
+        "miktar": "₺300",
+        "promo_code_yok": "",
         "slider_img": ""
       }
     ],
@@ -473,7 +521,7 @@
             "sort": "1"
           },
           {
-            "site": "sahabet",
+            "site": "bayspin",
             "sort": "2"
           },
           {
@@ -485,7 +533,7 @@
             "sort": "4"
           },
           {
-            "site": "bycasino",
+            "site": "sahabet",
             "sort": "5"
           },
           {
@@ -493,19 +541,19 @@
             "sort": "6"
           },
           {
-            "site": "zbahis",
+            "site": "bycasino",
             "sort": "7"
           },
           {
-            "site": "fixbet",
+            "site": "zbahis",
             "sort": "8"
           },
           {
-            "site": "matadorbet",
+            "site": "fixbet",
             "sort": "9"
           },
           {
-            "site": "bayspin",
+            "site": "matadorbet",
             "sort": "10"
           },
           {
@@ -539,6 +587,30 @@
           {
             "site": "amgbahis",
             "sort": "18"
+          },
+          {
+            "site": "supertotobet",
+            "sort": "19"
+          },
+          {
+            "site": "solobet",
+            "sort": "20"
+          },
+          {
+            "site": "venombet",
+            "sort": "21"
+          },
+          {
+            "site": "pashagaming",
+            "sort": "22"
+          },
+          {
+            "site": "marsbahis",
+            "sort": "23"
+          },
+          {
+            "site": "palazzobet",
+            "sort": "24"
           }
         ]
       },
